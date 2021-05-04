@@ -1,5 +1,7 @@
 ﻿#include <Windows.h>
 
+//hello im The Mayn Mike
+
 int main() //Точка входа в нашу программу
 {
 	HDC hdc = GetDC(0); //Получаем HDC нашего экрана
